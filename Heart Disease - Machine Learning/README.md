@@ -15,3 +15,5 @@ in building dynamic and responsive applications.
 
 In essence, this project not only marked a significant milestone in my journey but also stands as a testament to my ability to conceptualize, develop, and deploy end-to-end machine-learning
 solutions with a focus on usability and practicality.
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
